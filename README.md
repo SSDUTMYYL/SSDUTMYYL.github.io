@@ -1,2 +1,2 @@
 * test
-* (knowledge)[https://yiliang-neo.github.io/knowledgenote/]
+* [knowledge](https://yiliang-neo.github.io/knowledgenote/)
